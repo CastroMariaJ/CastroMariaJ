@@ -35,20 +35,7 @@ Estudiante de software enfocada en el diseño y desarrollo de sitios y aplicacio
 
 <br/>
 
-## Estadísticas de GitHub
 
-<div align="center">
-
-<a href="https://github.com/CastroMariaJ">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CastroMariaJ&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" alt="Estadísticas de GitHub" />
-</a>
-<a href="https://github.com/CastroMariaJ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastroMariaJ&layout=compact&theme=react&hide_border=true" alt="Lenguajes más usados" />
-</a>
-
-</div>
-
-<br/>
 
 ## Contacto
 

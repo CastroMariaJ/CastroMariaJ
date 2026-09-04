@@ -14,7 +14,8 @@
 
 ## Sobre mí
 
-Estudiante de software enfocada en el diseño y desarrollo de sitios y aplicaciones web. Actualmente en proceso constante de aprendizaje, con especial interés en el frontend.
+
+Estudiante de software enfocada en el diseño y desarrollo de sitios y aplicaciones web. A lo largo de mi formación he adquirido conocimientos en Python, HTML, CSS y JavaScript, así como nociones básicas de bases de datos, herramientas que me permiten construir soluciones funcionales tanto en el frontend como en el backend. Me encuentro en un proceso constante de aprendizaje, buscando siempre profundizar mis habilidades técnicas y mantenerme actualizada con las tendencias del desarrollo web.
 
 - 🎯 **Enfoque actual:** desarrollo web (Python, HTML, CSS, JavaScript)
 - 📚 **Aprendizaje continuo:** ampliando conocimientos en diseño y programación

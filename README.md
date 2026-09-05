@@ -10,7 +10,9 @@
   </a>
   <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=CastroMariaJ&repo=CastroMariaJ&countColor=%237B1E7B" alt="Visitantes del perfil" />
 </p>
----
+<br />
+<hr />
+<br />
 ## 💫 Sobre Mí
 👋 ¡Hola! Soy **María Castro**, estudiante de software enfocada en el diseño y desarrollo de soluciones web funcionales, modernas e intuitivas. 
 Me motiva la resolución de problemas mediante el código y la creación de experiencias digitales atractivas. Actualmente me encuentro fortaleciendo mis conocimientos tanto en **Frontend** como en **Backend**, combinando interfaces adaptativas con lógica de programación estructurada.
@@ -19,54 +21,13 @@ Me motiva la resolución de problemas mediante el código y la creación de expe
 - 💡 **Intereses:** Arquitectura Web, UI/UX, Bases de Datos, Código Limpio
 - 🌱 **Aprendizaje Continuo:** Explorando frameworks modernos e integración de APIs REST
 - 🚀 **Meta Profesional:** Dominar el ecosistema de JavaScript y Python para construir aplicaciones web escalables e impactantes
----
+<br />
+<hr />
+<br />
 ## 🛠️ Lenguajes & Tecnologías
 <p align="center">
   <b>Frontend &amp; Diseño</b><br />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-<br />
-<p align="center">
-  <b>Backend &amp; Bases de Datos</b><br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-</p>
-<br />
-<p align="center">
-  <b>Herramientas &amp; Entornos</b><br />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
----
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CastroMariaJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de María" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastroMariaJ&layout=compact&theme=dracula&hide=html" alt="Lenguajes más usados" />
-</p>
----
-## 🚀 Proyectos Destacados
-| Proyecto | Descripción | Tecnologías | Estado |
-| :--- | :--- | :---: | :---: |
-| 🌐 **Portafolio Web Profesional** | Sitio web personal interactivo para exhibir proyectos y habilidades. | `HTML` `CSS` `JS` | 🔨 En Desarrollo |
-| 🐍 **Taller de Python** | Colección de proyectos, ejercicios y utilidades desarrolladas en Python. | `Python` | 🚀 Activo |
----
-## 📫 ¡Conéctate Conmigo!
-<p align="center">
-  <a href="mailto:castromariawork@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/itsredwinett/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/CastroMariaJ">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-<br />
-<p align="center">
-  <sub>✨ <i>"El único modo de hacer un gran trabajo es amar lo que haces."</i> — Steve Jobs</sub><br />
-  <sub>⚡ Última actualización: Septiembre 2026</sub>
 </p>

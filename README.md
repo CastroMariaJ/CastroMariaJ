@@ -136,6 +136,12 @@ Mi portafolio más reciente está disponible en este repositorio:
 **Portafolio en línea:** `PORTFOLIO_URL_HERE`<br />
 Reemplazaré este placeholder cuando exista una URL pública desplegada y verificada.
 
+## Hoja de vida
+
+¿Quieres conocer mi perfil con más detalle?
+
+[![Descargar hoja de vida](https://img.shields.io/badge/Descargar%20hoja%20de%20vida-PDF-6E56CF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_Maria_Jose_Castro_ATS.pdf)
+
 ---
 
 ## Actualmente aprendiendo

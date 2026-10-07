@@ -1,22 +1,30 @@
 # Maria Jose Castro Sanjuan
 
-### Junior Full Stack Developer | Java · Python · JavaScript | Web Development & Automation
+### Desarrolladora Full Stack Junior | Java · Python · JavaScript | Desarrollo Web y Automatización
 
-I build practical web projects, interactive interfaces, APIs and automation workflows while continuously strengthening my software development skills.
+<p align="center">
+  <i>Transformando ideas en experiencias digitales funcionales, claras y con propósito.</i>
+</p>
 
-## About Me
+Me interesa crear aplicaciones web, soluciones Full Stack, APIs y automatizaciones conectadas con bases de datos. Actualmente estoy construyendo experiencia práctica mediante proyectos reales y fortaleciendo continuamente mis habilidades de desarrollo de software.
 
-I am a junior developer focused on Full Stack and web development. My current practice combines JavaScript, Python, HTML, CSS, REST APIs, databases and automation with n8n. I enjoy turning ideas into functional digital experiences and keep learning through hands-on projects in backend development, frontend development and UX/UI.
+---
 
-## Tech Stack
+## Sobre mí
 
-### Languages
+Soy desarrolladora junior enfocada en el desarrollo Full Stack y la creación de soluciones web. Mi práctica combina JavaScript, Python, HTML, CSS, APIs REST, bases de datos y automatización con n8n.
+
+Disfruto convertir problemas en interfaces útiles, explorar nuevas formas de programar y cuidar tanto la funcionalidad como la experiencia de usuario. Mi objetivo es seguir creciendo en backend, frontend, UX/UI y arquitectura de aplicaciones.
+
+## Stack tecnológico
+
+### Lenguajes
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-> Java is currently part of my learning focus; no public Java repository was identified during this audit.
+> Java forma parte de mi enfoque actual de aprendizaje; durante esta auditoría no se identificó un repositorio público desarrollado en Java.
 
 ### Frontend
 
@@ -24,101 +32,109 @@ I am a junior developer focused on Full Stack and web development. My current pr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend & APIs
+### Backend y APIs
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 
-### Databases & Storage
+### Bases de datos y almacenamiento
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-> MySQL and PostgreSQL are part of my learning focus, but I did not find a public project that demonstrates them clearly enough to list as an implemented stack item yet.
+> MySQL y PostgreSQL forman parte de mis áreas de aprendizaje. Todavía no encontré un proyecto público que los demuestre claramente como tecnologías implementadas.
 
-### Automation
+### Automatización
 
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-### Tools & Design
+### Herramientas y diseño
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![UX/UI](https://img.shields.io/badge/UX%2FUI-6E56CF?style=for-the-badge&logo=figma&logoColor=white)
 
-## Featured Projects
+---
 
-### [TalentAI — Candidate Screening Platform](https://github.com/CastroMariaJ/examen-de-n8n)
+## Proyectos destacados
 
-A web platform for candidate pre-screening that connects a dashboard with n8n workflows, Google Sheets and a Telegram bot. It demonstrates a more complete product concept around HR automation and data flow.
+### [TalentAI — Plataforma de selección de candidatos](https://github.com/CastroMariaJ/examen-de-n8n)
 
-**Tech:** HTML · CSS · JavaScript · n8n · Google Sheets · Telegram · Chart.js
+Plataforma web para apoyar la preselección de candidatos mediante un dashboard conectado con flujos de n8n, Google Sheets y un bot de Telegram. Es uno de mis proyectos más completos por su enfoque en automatización, gestión de datos y experiencia de usuario.
 
-[Repository](https://github.com/CastroMariaJ/examen-de-n8n)
+**Tecnologías:** HTML · CSS · JavaScript · n8n · Google Sheets · Telegram · Chart.js
 
-### [Dulce Cumple — Automated Order Intake](https://github.com/CastroMariaJ/dulce-cumple)
+[Ver repositorio](https://github.com/CastroMariaJ/examen-de-n8n)
 
-A responsive web order form for a pastry business that sends customer data to an n8n webhook for workflow automation and spreadsheet-based processing.
+### [Dulce Cumple — Recepción automatizada de pedidos](https://github.com/CastroMariaJ/dulce-cumple)
 
-**Tech:** HTML · CSS · JavaScript · n8n · Webhooks · Google Sheets
+Formulario web responsivo para recibir pedidos de repostería y enviar la información a un webhook de n8n. El proyecto conecta la experiencia del cliente con un flujo automatizado para procesar los datos.
 
-[Repository](https://github.com/CastroMariaJ/dulce-cumple)
+**Tecnologías:** HTML · CSS · JavaScript · n8n · Webhooks · Google Sheets
 
-### [Acme School Exam Platform](https://github.com/CastroMariaJ/examen)
+[Ver repositorio](https://github.com/CastroMariaJ/dulce-cumple)
 
-A browser-based exam platform with login views, user and student management, exam creation, protected screens and automatic scoring using browser storage.
+### [Plataforma de exámenes Acme School](https://github.com/CastroMariaJ/examen)
 
-**Tech:** HTML · CSS · JavaScript · Web Components · localStorage · sessionStorage
+Aplicación web para gestionar usuarios, estudiantes y exámenes desde el navegador. Incluye vistas de acceso, creación de evaluaciones, protección de pantallas y cálculo automático de resultados utilizando almacenamiento del navegador.
 
-[Repository](https://github.com/CastroMariaJ/examen)
+**Tecnologías:** HTML · CSS · JavaScript · Web Components · localStorage · sessionStorage
 
-### [Personal Portfolio — Updated Version](https://github.com/CastroMariaJ/portafolio-web-actualizado)
+[Ver repositorio](https://github.com/CastroMariaJ/examen)
 
-A responsive personal portfolio built with semantic HTML, modular CSS and Vanilla JavaScript to present skills and projects through a clean, modern interface.
+### [Portafolio personal — Versión actualizada](https://github.com/CastroMariaJ/portafolio-web-actualizado)
 
-**Tech:** HTML5 · CSS3 · Vanilla JavaScript · Responsive Design · UX/UI
+Portafolio web responsivo desarrollado con HTML semántico, CSS modular y JavaScript Vanilla para presentar habilidades y proyectos mediante una interfaz moderna y enfocada en UX/UI.
 
-[Repository](https://github.com/CastroMariaJ/portafolio-web-actualizado)
+**Tecnologías:** HTML5 · CSS3 · JavaScript Vanilla · Diseño responsivo · UX/UI
 
-### [Python Inventory Manager](https://github.com/CastroMariaJ/taller_python_mariacastro)
+[Ver repositorio](https://github.com/CastroMariaJ/portafolio-web-actualizado)
 
-A modular command-line inventory application with separated interface, processing and persistence responsibilities, plus JSON-based storage and tabular output.
+### [Gestor de inventario en Python](https://github.com/CastroMariaJ/taller_python_mariacastro)
 
-**Tech:** Python · JSON · Tabulate · Modular Architecture
+Aplicación de consola modular para administrar un inventario, separando las responsabilidades de interfaz, procesamiento y persistencia. Utiliza almacenamiento en JSON y visualización de datos en tablas.
 
-[Repository](https://github.com/CastroMariaJ/taller_python_mariacastro)
+**Tecnologías:** Python · JSON · Tabulate · Arquitectura modular
 
-## Portfolio
-
-My latest portfolio repository is available here:
-
-[View Portfolio Repository](https://github.com/CastroMariaJ/portafolio-web-actualizado)
-
-**Live portfolio:** `PORTFOLIO_URL_HERE`<br />
-Replace this placeholder when the portfolio has a verified public deployment URL.
-
-## Currently Learning
-
-- Full Stack Development
-- Java and backend fundamentals
-- REST API design
-- Database design with MySQL and PostgreSQL
-- Workflow automation with n8n
-
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CastroMariaJ&show_icons=true&theme=dracula&hide_border=true" alt="GitHub statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastroMariaJ&layout=compact&theme=dracula&hide_border=true" alt="Most used languages" />
-</p>
-
-## Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-CastroMariaJ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CastroMariaJ)
-[![Email](https://img.shields.io/badge/Email-castromariawork%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castromariawork@gmail.com)
+[Ver repositorio](https://github.com/CastroMariaJ/taller_python_mariacastro)
 
 ---
 
-<p align="center"><sub>Building experience one practical project at a time.</sub></p>
+## Portafolio
+
+Mi portafolio más reciente está disponible en este repositorio:
+
+[Ver repositorio del portafolio](https://github.com/CastroMariaJ/portafolio-web-actualizado)
+
+**Portafolio en línea:** `PORTFOLIO_URL_HERE`<br />
+Reemplazaré este placeholder cuando exista una URL pública desplegada y verificada.
+
+---
+
+## Actualmente aprendiendo
+
+- Desarrollo Full Stack
+- Java y fundamentos de backend
+- Diseño de APIs REST
+- Diseño de bases de datos con MySQL y PostgreSQL
+- Automatización de procesos con n8n
+
+## Estadísticas de GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CastroMariaJ&show_icons=true&theme=dracula&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastroMariaJ&layout=compact&theme=dracula&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
+</p>
+
+## Contacto
+
+[![GitHub](https://img.shields.io/badge/GitHub-CastroMariaJ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CastroMariaJ)
+[![Correo](https://img.shields.io/badge/Correo-castromariawork%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castromariawork@gmail.com)
+
+---
+
+<p align="center">
+  <sub>☕ Código, curiosidad y aprendizaje continuo.</sub>
+</p>

@@ -3,10 +3,35 @@
 ### Desarrolladora Full Stack Junior | Java · Python · JavaScript | Desarrollo Web y Automatización
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6E56CF&center=true&vCenter=true&width=700&height=45&lines=Construyendo+proyectos+con+curiosidad;Aprendiendo+algo+nuevo+en+cada+commit;Frontend%2C+backend+y+automatización" alt="Mensajes animados" />
+</p>
+
+<p align="center">
   <i>Transformando ideas en experiencias digitales funcionales, claras y con propósito.</i>
 </p>
 
 Me interesa crear aplicaciones web, soluciones Full Stack, APIs y automatizaciones conectadas con bases de datos. Actualmente estoy construyendo experiencia práctica mediante proyectos reales y fortaleciendo continuamente mis habilidades de desarrollo de software.
+
+<p align="center">
+  <a href="#sobre-mí">Sobre mí</a> ·
+  <a href="#stack-tecnológico">Stack</a> ·
+  <a href="#proyectos-destacados">Proyectos</a> ·
+  <a href="#portafolio">Portafolio</a> ·
+  <a href="#contacto">Contacto</a>
+</p>
+
+<details>
+  <summary>✨ ¿Qué te gustaría explorar?</summary>
+
+  <br />
+
+  | Si buscas... | Puedes visitar... |
+  | :--- | :--- |
+  | Automatización y n8n | [TalentAI](https://github.com/CastroMariaJ/examen-de-n8n) o [Dulce Cumple](https://github.com/CastroMariaJ/dulce-cumple) |
+  | JavaScript y aplicaciones web | [Plataforma de exámenes](https://github.com/CastroMariaJ/examen) |
+  | Python y arquitectura modular | [Gestor de inventario](https://github.com/CastroMariaJ/taller_python_mariacastro) |
+  | Diseño web y UX/UI | [Portafolio actualizado](https://github.com/CastroMariaJ/portafolio-web-actualizado) |
+</details>
 
 ---
 
@@ -120,6 +145,33 @@ Reemplazaré este placeholder cuando exista una URL pública desplegada y verifi
 - Diseño de APIs REST
 - Diseño de bases de datos con MySQL y PostgreSQL
 - Automatización de procesos con n8n
+
+<details>
+  <summary>🧭 Mi ruta de aprendizaje</summary>
+
+  <br />
+
+  - ✅ Fundamentos de desarrollo web
+  - ✅ Interfaces responsivas y UX/UI
+  - ✅ JavaScript y consumo de APIs
+  - ✅ Automatización con n8n y Webhooks
+  - 🔄 Java y fundamentos de backend
+  - 🔄 MySQL, PostgreSQL y diseño de bases de datos
+  - 🔜 Integración de proyectos Full Stack más completos
+</details>
+
+<details>
+  <summary>🛠️ Cómo trabajo en mis proyectos</summary>
+
+  <br />
+
+  1. Identifico el problema y el usuario principal.
+  2. Organizo la estructura y la experiencia de la interfaz.
+  3. Construyo una solución funcional con tecnologías adecuadas.
+  4. Pruebo, documento y mejoro iterativamente.
+
+  <p align="center"><i>Cada proyecto es una nueva oportunidad para aprender haciendo.</i></p>
+</details>
 
 ## Estadísticas de GitHub
 

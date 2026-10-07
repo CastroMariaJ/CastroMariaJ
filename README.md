@@ -1,6 +1,6 @@
 # Maria Jose Castro Sanjuan
 
-### Desarrolladora Full Stack Junior | Java · Python · JavaScript | Desarrollo Web y Automatización
+### Desarrolladora en formación | Java · Python · JavaScript | Desarrollo Web y Automatización
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=20&pause=1200&color=6E56CF&center=true&vCenter=true&width=700&height=45&lines=Construyendo%20proyectos%20con%20curiosidad;Aprendiendo%20algo%20nuevo%20en%20cada%20commit;Frontend%2C%20backend%20y%20automatizacion" alt="Mensajes animados" />
